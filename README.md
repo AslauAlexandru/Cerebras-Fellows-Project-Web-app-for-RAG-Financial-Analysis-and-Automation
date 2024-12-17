@@ -12,7 +12,8 @@ dynamically route models, and generate structured outputs.
 For this project, imagine you are working for a leading quantitative investment fund, 
 Company X, that is looking to leverage LLMs to gain a competitive edge in stock selection. The company wants to build a system that can analyze vast amounts of textual data to identify promising investment opportunities before they become obvious to the market.
 
-- What is Research Automation?
+- **What is Research Automation?**
+
 Research Automation: Build a system that can find relevant stocks based 
 on natural language queries from the user (e.g. "What are companies that build data centers?"). 
 All stocks on the New York Stock Exchange must also be searchable by metrics such as 
