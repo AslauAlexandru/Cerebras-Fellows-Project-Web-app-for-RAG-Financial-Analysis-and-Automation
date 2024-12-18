@@ -2,6 +2,8 @@
 
 This Google Colab is a Cerebras Fellows Project Web app for RAG Financial Analysis and Automation [**Cerebras_Fellows_Project_Web_app_for_RAG_Financial_Analysis_and_Automation.ipynb**]().
 
+YouTube URL: https://youtu.be/Fir-7BtIGIg
+
 ## Cerebras Fellows Project Web app for RAG Financial Analysis and Automation with LLMs
 
 In this project, you will learn or see how to leverage large language models (LLMs) 
